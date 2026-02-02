@@ -70,7 +70,7 @@ This framework is derived from the book **Agile Symbiosis** by Michael Janzen.
 While this repository provides the *how* (the operational tools), the book provides the *why*—covering the economic context of the "Automation Headwind" vs. the "Augmentation Tide", organizational strategies for leaders, and the path to collective agency.
 
 * **Book:** [Agile Symbiosis](https://agilesymbiosis.com)
-* **Free PNA Version:** 
+* **Free PNA Version:** [Agile Symbiosis OS](https://agilesymbiosis.com/pna-edition)
 * **Author:** Michael Janzen
 * **License:** The D.I.S.T. process definitions and prompts in this repository are released under the [MIT License](LICENSE).
 
