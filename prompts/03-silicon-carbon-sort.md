@@ -1,4 +1,4 @@
-# Prompt 2: AI-Ready vs. Human Responsibility Sort
+# Prompt 3: AI-Ready vs. Human Responsibility Sort
 
 **Phase:** ISOLATE
 **Purpose:** Evaluates tasks based on pattern recognition and risk, sorting them into categories suitable for AI delegation (Silicon) or requiring human execution (Carbon).
