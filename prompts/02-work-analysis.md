@@ -1,4 +1,4 @@
-# Prompt 1: Comprehensive Job Description Analysis
+# Prompt 2: Comprehensive Job Description Analysis
 
 **Phase:** DISSOLVE
 **Purpose:** Deconstructs a formal job description into distinct tasks and categories. It reveals the gap between official scope and actual work, highlighting "translation work" (low value) vs. strategic work.
