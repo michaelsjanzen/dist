@@ -56,6 +56,13 @@ This repository is organized to help you run a "Personal Launch Plan" sprint:
 3.  Use the prompts in `/prompts` to analyze your data and design your new role.
 4.  Commit your new workflow designs to your personal fork to track your evolution from "Passenger" to "Navigator".
 
+## Contributing
+
+The D.I.S.T. Framework is a living protocol. 
+
+* **Have a better prompt?** If you've refined a prompt for a specific role (e.g., "Job Deconstruction for Designers"), please open a Pull Request to add it to the `/prompts` folder.
+* **Found a bug?** If a prompt is consistently hallucinating on a specific model (Claude vs GPT), please open an Issue.
+
 ## Origin & Context
 
 This framework is derived from the book **Agile Symbiosis** by Michael Janzen.
