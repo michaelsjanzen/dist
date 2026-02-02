@@ -6,7 +6,7 @@
 **Input Required:** Your full Job Description text.
 
 ---
-
+```
 **Copy/Paste this into Claude/Gemini/ChatGPT:**
 
 Act as a work design analyst specializing in knowledge work deconstruction. I am providing a Job Description.
@@ -26,6 +26,7 @@ Your task is to analyze it and:
 
 **Output format:**
 Output as a structured markdown table with columns: Task, Category, Description, Time percent, Primary Output.
+```
 
 Then provide a summary answering: 
 * What is the dominant category? 
