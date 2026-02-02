@@ -1,4 +1,4 @@
-# Prompt 4: Sprint Experiment Design
+# Prompt 7: Sprint Experiment Design
 
 **Phase:** TITRATE
 **Purpose:** Transforms a workflow idea into a structured, time-boxed Personal Work Sprint. It helps define a hypothesis, metrics, and a "rollback" plan if the AI fails.
