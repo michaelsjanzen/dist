@@ -1,4 +1,4 @@
-# Prompt 3: Transformative Workflow Redesign
+# Prompt 4: Transformative Workflow Redesign
 
 **Phase:** SYNTHESIZE
 **Purpose:** Acts as a workflow innovation consultant to generate faster or higher-impact approaches. It proposes a "symbiotic workflow" where AI handles pattern-matching, leaving you with strategic judgment.
