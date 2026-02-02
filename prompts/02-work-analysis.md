@@ -1,36 +1,32 @@
-# Prompt 2: Comprehensive Job Description Analysis
+# Prompt 2: Personal Work Week Analysis
 
 **Phase:** DISSOLVE
-**Purpose:** Deconstructs a formal job description into distinct tasks and categories. It reveals the gap between official scope and actual work, highlighting "translation work" (low value) vs. strategic work.
+**Purpose:** Acts as a time management consultant to analyze your actual time log. It sorts every activity into value buckets (High, Medium, Low, Waste) to quantify your "drudgery tax" and reveal energy-draining patterns.
 
-**Input Required:** Your full Job Description text.
+**Input Required:** A detailed work log from the past week (including specific activities, durations, and goals).
 
 ---
-```
+
 **Copy/Paste this into Claude/Gemini/ChatGPT:**
+```
+Act as a time management consultant analyzing real work patterns.
 
-Act as a work design analyst specializing in knowledge work deconstruction. I am providing a Job Description.
+I am providing a Detailed Work Log from the past week.
 
-Your task is to analyze it and:
+Your task is to:
 
-1. **Extract** every distinct task, responsibility, or activity mentioned or implied.
-2. **Categorize** each task into one of these types: 
-    * *Strategic* (long-term planning, vision)
-    * *Analytical* (interpretation, research)
-    * *Creative* (ideation, design)
-    * *Administrative* (documentation, scheduling)
-    * *Coordination* (meetings, handoffs)
-3. **For each task, provide:** A brief description, estimated time allocation (percent of role if possible), and primary output.
-4. **Identify** tasks that primarily involve "translation work" (reformatting information without adding strategic value).
-5. **Calculate** total estimated time allocation across categories.
+1. **Categorize** every activity into: 
+    * *High-Value* (strategic, creative, analytical work requiring unique expertise)
+    * *Medium-Value* (necessary work, potential for assistance/delegation)
+    * *Low-Value* (admin, routine coordination)
+    * *Waste* (pointless meetings, interruptions, context switching)
+2. **Calculate** the percentage of time spent in each category.
+3. **Identify patterns:** Time-of-day correlations? Recurring time sinks? High coordination overhead activities?
+4. **Flag** the "drudgery tax"—necessary but energy-draining tasks.
+5. **Analyze** the gap between time allocation and perceived value creation.
 
 **Output format:**
-Output as a structured markdown table with columns: Task, Category, Description, Time percent, Primary Output.
+Output as: A summary table (Category, Time percent), a list of top 5 time consumers (Activity, Category), and specific recommendations for workflow redesign focus.
+
+My work log from the past week: [PASTE YOUR DETAILED TIME LOG HERE - be specific about activities, duration, goals]
 ```
-
-Then provide a summary answering: 
-* What is the dominant category? 
-* What percent is coordination vs. value creation?
-* Are there overlapping tasks?
-
-Job Description to Analyze: [PASTE YOUR FULL JOB DESCRIPTION HERE]
