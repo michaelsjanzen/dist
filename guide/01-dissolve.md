@@ -22,7 +22,7 @@ As you log, look for the "Friction Signal"—the moment in the day that causes t
 ## The Tools
 Use the open-source tools in this repository to execute this phase:
 
-1. **Deconstruct your official role:** Use `prompts/01-job-analysis.md` to analyze your formal job description and reveal the gap between your official scope and actual work.
-2. **Track your actual work:** Use `templates/01-audit-log.md` to log your granular activities and identify your Friction Signals over a 3-to-7-day period.
+1. **Deconstruct your official role:** Use `prompts/01-comprehensive-job-analysis.md` to analyze your formal job description and reveal the gap between your official scope and actual work.
+2. **Track your actual work:** Use `templates/02-work-week-analysis.md` to log your granular activities and identify your Friction Signals over a 3-to-7-day period.
 
 **Next Step:** Once you have your raw log of ~150 task entries, proceed to the **ISOLATE** phase.
