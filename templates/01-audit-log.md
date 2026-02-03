@@ -1,22 +1,17 @@
-# Personal Work Audit Log
+# Template 1: The D.I.S.T. Activity Log (Phase 1: DISSOLVE)
 
-**Instructions:** Use this log for 3-5 days to track your work. 
-* **Task:** Be specific (e.g., "Drafting email" not "Email").
-* **Duration:** Estimate in minutes.
-* **Friction:** Rate 1-5 (5 = High frustration/inefficiency).
-* **Category:** Leave blank until the end of the week, then sort into **Silicon** (AI-Ready) or **Carbon** (Human Responsibility).
+**Purpose:** To create a granular dataset of your actual work week so the AI can analyze your role. Memory is unreliable; this log captures the reality.
 
-| Date | Time | Task Description | Duration (m) | Friction (1-5) | Category (Silicon/Carbon) |
-|------|------|------------------|--------------|----------------|---------------------------|
-| Mon  | 09:00|                  |              |                |                           |
-|      |      |                  |              |                |                           |
-|      |      |                  |              |                |                           |
+**Instructions:**
+1. Keep this log open on your desktop for 3 to 7 days.
+2. **Be Specific:** Do not write "Project Management." Write "Compiled status update slide for engineering sync."
+3. **The Friction Signal:** Mark the ONE task each day that caused the most process friction or frustration. 
 
-## Analysis Summary (End of Sprint)
+| Date | Time | Specific Activity | Duration (Mins) | Notes / Friction Signal |
+|------|------|-------------------|-----------------|-------------------------|
+|      |      |                   |                 |                         |
+|      |      |                   |                 |                         |
+|      |      |                   |                 |                         |
+|      |      |                   |                 |                         |
 
-* **Total Hours Logged:**
-* **Drudgery Tax (Total Silicon Hours):**
-* **Primary Friction Points:**
-    1.
-    2.
-    3.
+**Next Step:** Once you have 3 to 7 days of data, copy this table and paste it into **Prompt 2 (Personal Work Week Analysis)**.
