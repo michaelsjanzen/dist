@@ -18,7 +18,8 @@ The methodology follows four phases:
 **Break the rigid role into liquid elements.**
 Most professionals rely on memory to estimate workload, which is unreliable. The Dissolve step asks for tracking work with granular fidelity to reveal the friction often ignored. Use the prompt to analyze your actual time log.
 * **Goal:** Create a raw log of discrete task entries.
-* **Prompt:** `prompts/02-work-analysis.md`
+* **Prompt:** `prompts/01-comprehensive-job-analysis.md`
+* **Prompt:** `prompts/02-work-week-analysis.md`
 * **Template:** `templates/01-audit-log.md`
 
 ### 2. ISOLATE (The Sort)
