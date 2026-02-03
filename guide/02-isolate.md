@@ -22,4 +22,9 @@ These are organic tasks requiring judgment, ambiguity navigation, and relational
 ## The Drudgery Tax
 Sum the hours listed in the "Silicon" bucket. This number is your **Drudgery Tax**—the amount of your life currently spent on work that requires none of your unique talent.
 
+## The Tools
+Do not attempt to sort your task list manually. Use the open-source tools in this repository:
+
+1. **Categorize your work:** Paste your task log into `prompts/03-silicon-carbon-sort.md`. The AI will evaluate each task based on pattern-recognition and risk, automatically sorting them into Silicon and Carbon lists for you.
+
 **Next Step:** Use this sorted list to **SYNTHESIZE** a new workflow.
