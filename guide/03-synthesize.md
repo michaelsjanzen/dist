@@ -17,4 +17,11 @@ Do not just hand off work. Design the interaction.
 ## The Reinvestment Rule
 If you save two hours on data entry, do not just do more data entry. Reinvest that time into the **Carbon** elements: deeper analysis, strategy, or relationship building.
 
+## The Tools
+Use the open-source tools in this repository to execute this phase:
+
+1. **Blueprint the big picture:** Use `prompts/04-workflow-redesign.md` to map out a fundamentally new way to achieve your goal using AI-first logic.
+2. **Design the micro-steps:** To avoid the "implementation gap," use `prompts/05-collaboration-design.md` to design the exact hand-offs and prompts you will need for your new workflow.
+3. **Break your fixation:** If your new workflow feels too similar to your old one, use `prompts/06-alternative-approach.md` to force divergent thinking.
+
 **Next Step:** Take your new workflow design and **TITRATE** it in the real world.
