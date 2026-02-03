@@ -36,6 +36,7 @@ Don't just automate; redesign how value is created. Design collaboration pattern
 * **Prompt:** `prompts/04-workflow-redesign.md`
 * **Prompt:** `prompts/05-collaboration-design.md`
 * **Prompt:** `prompts/06-alternative-approach.md`
+* **Template:** `templates/03-workflow-blueprint.md`
 
 ### 4. TITRATE (The Test)
 **Treat the workflow as an experiment.**
